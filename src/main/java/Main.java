@@ -26,6 +26,6 @@ public class Main {
         treeSet.add(7);
         treeSet.add(5);
 
-        System.out.println(treeSet);
+        System.out.println("Result: " + treeSet);
     }
 }
